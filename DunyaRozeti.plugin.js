@@ -4,7 +4,7 @@
  * @description Allows you to locally assign badges to users through the user context menu.
  * @author umutizy
  * @source https://github.com/Umutizy
- * @updateUrl https://raw.githubusercontent.com/QWERTxD/BetterDiscordPlugins/main/AssignBadges/AssignBadges.plugin.js
+ * @updateUrl https://github.com/Umutizy
  */
 /*@cc_on
 @if (@_jscript)
@@ -40,7 +40,7 @@ const config = {
 			"discord_id": "592456076881035282",
 			"github_username": "Umutizy"
 		}],
-		"github": "https://github.com/QWERTxD/BetterDiscordPlugins/tree/main/AssignBadges",
+		"github": "https://github.com/Umutizy",
 		"github_raw": "https://github.com/Umutizy"
 	},
 	"build": {
